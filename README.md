@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Surya1007
-- 👀 Interested in writing code for embedded systems, mobile robotics, and aerial robotics.
-- 🌱 Currently learning C++, linux, parallel processing.
-- 💞️ Looking to collaborate on projects related to embedded systems, robotics.
+- 👋 Hi, I’m @Surya1007, Computer Engineering student at NC State University.
+- 👀 Interested in researching real-time embedded systems, and cyber-physical systems.
 
 <!---
 Surya1007/Surya1007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
