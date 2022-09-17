@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Surya1007, Computer Engineering student at NC State University.
+- 👋 Hi, I’m @Surya1007, Master of Science student in Computer Engineering at NC State University.
 - 👀 Interested in researching real-time embedded systems, and cyber-physical systems.
 
 <!---
